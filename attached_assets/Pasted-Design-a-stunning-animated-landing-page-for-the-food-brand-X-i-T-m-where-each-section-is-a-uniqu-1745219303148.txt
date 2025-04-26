@@ -1,0 +1,39 @@
+Design a stunning, animated landing page for the food brand "Xôi Tấm", where each section is a unique animation module that tells a story and captivates the viewer.
+The site should be full of imaginative, impressive animation effects – blending subtle micro-interactions with bold transitions that surprise and delight.
+
+🎨 Main color palette: green tea (xanh cốm) & soft purple (tím nhạt).
+🔇 No pricing, no order/contact info – just visual storytelling to showcase the beauty and soul of the food.
+
+💥 Animation Concepts Per Section:
+
+Hero Section –
+
+Floating glutinous rice grains slowly come together to form the "Xôi Tấm" logo using particle morphing animation. Soft, ambient movement of clouds or steam in the background creates a dreamy entrance.
+
+Menu Overview –
+
+Use a scroll-based split reveal: the screen splits diagonally as the viewer scrolls, revealing two glowing categories: "Xôi" and "Rau câu", each with slight neon shimmer and parallax depth.
+
+Xôi Section –
+
+Each dish appears with a claymation-style pop-up animation, where sticky rice seems to "grow" naturally on-screen. Add a bouncing hover effect, and background uses looped cooking pot steam animation for ambiance.
+
+Rau Câu Section –
+
+Use glass morphism and floating bubble physics to present each jelly dish. When hovered, jelly jiggles slightly with a soundless "wobble" animation. Add background sparkles using canvas or WebGL.
+
+Behind the Scenes Section –
+
+A horizontal scrolling timeline with animated illustrations showing the food-making process. Use hand-drawn sketch animation that transitions to real food photos as the user scrolls.
+
+Closing Section –
+
+A poetic closing module using kinetic typography animation with a Vietnamese proverb about food, overlaid on a slow-zoom background video of steaming xôi or a peaceful kitchen in the early morning.
+
+💡 Extra Touches:
+
+Add soundless ambient motion like falling rice grains, floating herbs, or light mist for depth.
+
+Use GSAP / Lottie / Three.js for complex animations like morphing or physics-based effects.
+
+Transitions between modules should feel like scenes in a short film — smooth and immersive.
